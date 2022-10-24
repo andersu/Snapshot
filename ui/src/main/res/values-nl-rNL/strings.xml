@@ -1,0 +1,4 @@
+<resources>
+    <string name="welcome">Welkom</string>
+    <string name="good_evening">Goedenavond %1$s</string>
+</resources>
